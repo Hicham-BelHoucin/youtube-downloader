@@ -9,7 +9,7 @@ YouTube1 Downloader is a versatile command-line tool written in Python, designed
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Hicham-BelHoucin/youtube-playlist-downloader.git
+   git clone https://github.com/Hicham-BelHoucin/youtube-downloader.git
    ```
 
 2. **Navigate to the Project Folder:**
